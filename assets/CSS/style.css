@@ -1,0 +1,36 @@
+html, body {
+    background-color: lavender;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body header {
+    background-color: aquamarine;
+}
+
+#main {
+    text-align: center;
+}
+
+h1, h2 {
+    color: darkblue;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#rule {
+    font-size: 20px;
+}
+
+#questions {
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#answers {
+    text-align: center;
+}
+
+ol {
+    font-size: 25px;
+}
