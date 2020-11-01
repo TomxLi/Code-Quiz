@@ -13,4 +13,4 @@ As part of an interview process. I built a timed coding quiz with multiple-choic
 
 ## LIVE URL
 
-https://tomxli.github.io/portfolio-xuefan-li/
+https://tomxli.github.io/Code-Quiz/.
